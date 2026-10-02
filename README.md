@@ -19,6 +19,12 @@
 
 <br/><br/>
 
+<a href="https://www.coursera.org/learn/developing-frontend-apps-with-react/home/welcome">
+<img src="https://img.shields.io/badge/IBM%20Final%20Project-Developing%20Front--End%20Apps%20with%20React-1b4332?style=for-the-badge&labelColor=0f766e" />
+</a>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:52b788,50:ff6b6b,100:52b788&height=4&section=header" width="60%"/>
 
 </div>
@@ -26,6 +32,8 @@
 <br/><br/>
 
 > A modern, functional shopping cart application for an online plant shop — browse categorized houseplants, add them to a live cart, and manage quantities with instantly recalculated totals. Built with **React** and **Redux Toolkit** for clean, predictable state management.
+>
+> This project is the **final capstone project** for IBM's [*Developing Front-End Apps with React*](https://www.coursera.org/learn/developing-frontend-apps-with-react/home/welcome) course on Coursera.
 
 <br/>
 
