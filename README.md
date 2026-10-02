@@ -1,7 +1,7 @@
 <a name="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:2d6a4f,100:1e3a5f&height=220&section=header&text=IBM%20Final%20Projects&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Front-End%20(React%20%2B%20Redux)%20%26%20Back-End%20(Node.js%20%2B%20Express)%20Capstones&descAlignY=54&descSize=14" width="100%"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:52b788,100:1b4332&height=220&section=header&text=Paradise%20Nursery%20and%20Express%20Book%20Review&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=A%20Beautiful%20Shopping%20Cart%20Experience%20for%20Plant%20Lovers&descAlignY=54&descSize=16" width="100%"/>
 
 <br/>
 
