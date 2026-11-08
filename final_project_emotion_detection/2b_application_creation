@@ -1,0 +1,8 @@
+theia@theia-docker:/home/project/final_project$ python3
+Python 3.11.0 (main, Oct 24 2022, 18:26:48) [GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from emotion_detection import emotion_detector
+>>> print(emotion_detector('I am really mad about this'))
+{"emotionPredictions":[{"emotion":{"anger":0.6395548,"disgust":0.04007137,"fear":0.05602885,"joy":0.01916169,"sadness":0.2345695},"target":"","emotionMentions":[{"span":{"begin":0,"end":26,"text":"I am really mad about this"},"emotion":{"anger":0.6395548,"disgust":0.04007137,"fear":0.05602885,"joy":0.01916169,"sadness":0.2345695}}]}],"producerId":{"name":"Aggregated Emotion Workflow","version":"0.0.1"}}
+>>> exit()
+theia@theia-docker:/home/project/final_project$ python3 test_emotion_detection.py
