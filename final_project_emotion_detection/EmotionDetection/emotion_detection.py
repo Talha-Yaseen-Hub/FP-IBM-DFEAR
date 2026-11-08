@@ -3,6 +3,7 @@ import requests
 
 
 def emotion_detector(text_to_analyze):
+    
     """
     Analyzes the input text using the Watson NLP Emotion Predict service
     and returns a formatted dictionary with emotion scores and dominant emotion.
@@ -22,7 +23,8 @@ def emotion_detector(text_to_analyze):
     response = requests.post(url, json=myobj, headers=headers)
 
     if response.status_code == 400:
-        return {
+        return 
+        {
             'anger': None,
             'disgust': None,
             'fear': None,
@@ -42,7 +44,8 @@ def emotion_detector(text_to_analyze):
 
     dominant_emotion = max(emotions, key=emotions.get)
 
-    return {
+    return 
+    {
         'anger': anger_score,
         'disgust': disgust_score,
         'fear': fear_score,
