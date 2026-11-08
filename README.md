@@ -276,6 +276,26 @@ Server runs on **port `5000`** — test endpoints via Postman or cURL.
 
 <br/>
 
+### Build and Deploy Ai Application (By IBM)
+
+```bash
+# 1. Navigate to the backend directory
+cd final_project_emotion_detection
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the server
+npm start
+```
+
+Server runs on **port `5000 or any other available port`** — test endpoints via Postman or cURL.
+
+<br/>
+
+---
+<br/>
+
 ## 👤 Author
 
 <div align="center">
