@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <meta charset="UTF-8">
+    <title>{{ course.name }}</title>
+</head>
+
+<body>
+    <!-- Navigation bar -->
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="{% url 'onlinecourse:index' %}">Home</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                {% if user.is_authenticated %}
+                <li>
+                    <a class="btn btn-link" href="#">{{ user.first_name }}({{ user.username }})</a>
+                    <a class="btn btn-link" href="{% url 'onlinecourse:logout' %}">Logout</a>
+                </li>
+                {% else %}
+                <li>
+                    <form class="form-inline" action="{% url 'onlinecourse:login' %}" method="post">
+                        {% csrf_token %}
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Username" name="username">
+                            <input type="password" class="form-control" placeholder="Password" name="psw">
+                            <button class="btn btn-primary" type="submit">Login</button>
+                            <a class="btn btn-link" href="{% url 'onlinecourse:registration' %}">Sign Up</a>
+                        </div>
+                    </form>
+                </li>
+                {% endif %}
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page content -->
+    <div class="container-fluid mt-3">
+        <h2>{{ course.name }}</h2>
+        <div class="card-columns-vertical">
+            {% for lesson in course.lesson_set.all %}
+                <div class="card mt-1">
+                    <div class="card-header"><h5>Lesson {{lesson.order|add:1}}: {{lesson.title}}</h5></div>
+                    <div class="card-body">{{lesson.content}}</div>
+                </div>
+            {% endfor %}
+        </div>
+
+        {% if user.is_authenticated %}
+        <br>
+        <button class="btn btn-primary btn-block mb-3" data-toggle="collapse" data-target="#exam">Start Exam</button>
+        <div id="exam" class="collapse">
+            <form id="questionform" action="{% url 'onlinecourse:submit' course.id %}" method="post">
+                {% csrf_token %}
+                {% for question in course.question_set.all %}
+                <div class="card mt-2">
+                    <div class="card-header"><h5>{{ question.question_text }}</h5></div>
+                    <div class="card-body">
+                        {% for choice in question.choice_set.all %}
+                        <div class="form-check mb-2">
+                            <label class="form-check-label">
+                                <input type="checkbox" name="choice_{{choice.id}}" class="form-check-input" id="{{choice.id}}" value="{{choice.id}}">
+                                {{ choice.choice_text }}
+                            </label>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+                <input class="btn btn-success btn-block mt-3 mb-5" type="submit" value="Submit Exam">
+            </form>
+        </div>
+        {% else %}
+        <div class="alert alert-info mt-3">Please login or sign up to take the exam.</div>
+        {% endif %}
+    </div>
+</body>
+</html>
