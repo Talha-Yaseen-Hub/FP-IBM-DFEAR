@@ -1,0 +1,2 @@
+NAME        REFERENCE              TARGETS   MINPODS   MAXPODS   REPLICAS   AGE
+guestbook   Deployment/guestbook   75%/5%    1         10        4          3m20s
