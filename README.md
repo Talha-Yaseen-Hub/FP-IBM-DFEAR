@@ -1,172 +1,161 @@
-<a name="top"></a>
+<a id="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:52b788,100:1b4332&height=220&section=header&text=IBM%20Final%20Projects%3A%206%20Full-Stack%20Capstones&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=React%2C%20Node%2C%20Django%2C%20Docker%2FK8s%2C%20Microservices%20%26%20AI%20with%20Flask&descAlignY=54&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:52b788,100:1b4332&height=240&section=header&text=IBM%20Full-Stack%20Capstones&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=6%20Final%20Projects%20%E2%80%A2%20React%20%C2%B7%20Node%20%C2%B7%20Flask%20AI%20%C2%B7%20Django%20%C2%B7%20Docker%2FK8s%20%C2%B7%20Microservices&descAlignY=58&descSize=15" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=18&duration=2800&pause=900&color=52B788&center=true&vCenter=true&width=760&lines=Six+IBM+capstones%2C+one+full-stack+journey;Front-end+%E2%86%92+Back-end+%E2%86%92+AI+%E2%86%92+Database+%E2%86%92+Cloud-native;React+%2B+Redux+%7C+Node+%2B+Express+%7C+Flask+%2B+Watson+%7C+Django+%2B+SQL;Docker+%C2%B7+Kubernetes+%C2%B7+OpenShift+%C2%B7+Code+Engine" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=18&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=700&lines=Six+IBM+Capstones%2C+One+Full-Stack+Journey;React+%2B+Redux+%7C+Node+%2B+Express+%7C+Django+%2B+SQL;Docker%2C+Kubernetes+and+OpenShift+%7C+Microservices;Flask+%2B+Watson+AI+-+Emotion+Detection" alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=react,redux,vite,css,html,js,nodejs,express,python,flask,django,postgres,docker,kubernetes,openshift,go,postman,bootstrap,git,github&theme=dark" alt="Tech icons" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,redux,vite,css,nodejs,express,python,django,docker,kubernetes,openshift,flask&theme=dark" />
+<img src="https://img.shields.io/badge/Projects-6-52b788?style=for-the-badge&labelColor=1b4332" />
+<img src="https://img.shields.io/badge/Provider-IBM%20%C3%97%20Coursera-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Cloud--Native-ff6b6b?style=for-the-badge&labelColor=1b4332" />
+<img src="https://img.shields.io/github/languages/top/Talha-Yaseen-Hub/FP-IBM-DFEAR?style=for-the-badge&labelColor=1b4332&color=F7DF1E" />
+<img src="https://img.shields.io/github/last-commit/Talha-Yaseen-Hub/FP-IBM-DFEAR?style=for-the-badge&labelColor=1b4332&color=52b788" />
+<img src="https://img.shields.io/github/stars/Talha-Yaseen-Hub/FP-IBM-DFEAR?style=for-the-badge&labelColor=1b4332&color=f59e0b" />
 
 <br/><br/>
 
-<a href="https://www.coursera.org/learn/developing-frontend-apps-with-react/home/welcome">
-<img src="https://img.shields.io/badge/IBM%20Course-Developing%20Front--End%20Apps%20with%20React-1b4332?style=for-the-badge&labelColor=52b788" />
-</a>
-<a href="https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express">
-<img src="https://img.shields.io/badge/IBM%20Course-Back--End%20Apps%20with%20Node.js%20%26%20Express-1e3a5f?style=for-the-badge&labelColor=3b82f6" />
-</a>
-<a href="https://www.coursera.org/learn/python-project-for-ai-application-development">
-<img src="https://img.shields.io/badge/IBM%20Course-AI%20Applications%20with%20Python%20%26%20Flask-4c1d95?style=for-the-badge&labelColor=8b5cf6" />
-</a>
-<br/>
-<a href="https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django">
-<img src="https://img.shields.io/badge/IBM%20Course-Django%2C%20SQL%20%26%20Databases-092e20?style=for-the-badge&labelColor=44B78B" />
-</a>
-<a href="https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift">
-<img src="https://img.shields.io/badge/IBM%20Course-Containers%20Docker%20K8s%20OpenShift-2d2d2d?style=for-the-badge&labelColor=EE0000" />
-</a>
-<a href="https://www.coursera.org/learn/applications-development-microservices-serverless-openshift">
-<img src="https://img.shields.io/badge/IBM%20Course-Microservices%20%26%20Serverless-1e293b?style=for-the-badge&labelColor=f59e0b" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:52b788,50:ff6b6b,100:3b82f6&height=4&section=header" width="60%"/>
+**[🚀 Projects](#projects) · [🗺️ Journey](#journey) · [📊 Stats](#stats) · [🗂️ Structure](#structure) · [⚡ Quick Start](#quickstart) · [👤 Author](#author)**
 
 </div>
 
-<br/><br/>
-
-> This repository holds **six final capstone projects** completed for IBM certifications on Coursera — spanning a React/Redux front-end, a Node/Express back-end, a Python/Flask AI application powered by Watson NLP, a Django app backed by SQL, a Docker/Kubernetes/OpenShift container pipeline, and a microservices + serverless architecture on IBM Cloud Code Engine.
-
 <br/>
 
-## 📊 Languages
-
-| Language | Share | Primarily Used In |
-|:---:|:---:|---|
-| 🟨 JavaScript | **44.4%** | Paradise Nursery (React/Redux), Express Book Review (Node/Express) |
-| 🟦 CSS | **32.1%** | Paradise Nursery styling, Bootstrap-based templates |
-| 🐍 Python | **10.4%** | Django Course App, Build & Deploy AI Application (Flask) |
-| 🟧 HTML | **8.7%** | Django templates, Flask templates |
-| 🔵 Go | **3.6%** | A sample service in the containers project *(inferred from the language split — not verified file-by-file)* |
-| 🐳 Dockerfile | **0.6%** | Image definitions for the containers project |
-| ⚪ Other | **0.2%** | Config and misc files |
-
-<br>
+> **FP-IBM-DFEAR** is a single repository holding the **final capstone project of six IBM certification courses** on Coursera. Together they cover the whole modern stack — a React/Redux storefront, a Node/Express REST API, a Watson-powered Flask AI app, a Django + SQL platform, a containerised Docker/Kubernetes/OpenShift pipeline, and a microservices + serverless system on IBM Cloud Code Engine.
 
 ---
 
-## 📖 Table of Contents
+<a id="overview"></a>
+## 🧭 At a Glance
 
-<details open>
-<summary><b>▼ Click to expand / collapse</b></summary>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🪴 Paradise Nursery**
-- [Features](#paradise-nursery-features)
-- [Product Categories](#product-categories)
-- [Redux Data Flow](#redux-data-flow)
-- [User Flow](#user-flow)
-- [Tech Stack](#paradise-nursery-tech-stack)
-- [Getting Started](#paradise-nursery-getting-started)
-
-</td>
-<td valign="top" width="50%">
-
-**📚 Express Book Review**
-- [Features](#express-book-review-features)
-- [Auth Flow](#auth-flow)
-- [API Route Map](#api-route-map)
-- [Tech Stack](#express-book-review-tech-stack)
-- [Getting Started](#express-book-review-getting-started)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**🤖 Build and Deploy AI Application**
-- [Features](#ai-application-features)
-- [Emotion Detection Flow](#emotion-detection-flow)
-- [Tech Stack](#ai-application-tech-stack)
-- [Getting Started](#ai-application-getting-started)
-
-</td>
-<td valign="top" width="50%">
-
-**🐍 Django Course App**
-- [Features](#django-app-features)
-- [Django MVT Flow](#django-mvt-flow)
-- [Tech Stack](#django-app-tech-stack)
-- [Getting Started](#django-app-getting-started)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**🐳 Containers with Docker, Kubernetes & OpenShift**
-- [Features](#containers-project-features)
-- [Container Deployment Flow](#container-deployment-flow)
-- [Tech Stack](#containers-tech-stack)
-- [Getting Started](#containers-getting-started)
-
-</td>
-<td valign="top" width="50%">
-
-**🧩 Microservices and Serverless**
-- [Features](#microservices-features)
-- [Architecture Flow](#microservices-architecture-flow)
-- [Tech Stack](#microservices-tech-stack)
-- [Getting Started](#microservices-getting-started)
-
-</td>
-</tr>
-</table>
-
-[📊 Languages](#-languages) · [👤 Author](#-author)
-
-</details>
-
-<br/>
+| # | Project | Layer | Core Tech | Course |
+|:-:|---|:-:|---|:-:|
+| 1 | [🪴 Paradise Nursery](#p1) | Front-End | React · Redux Toolkit · Vite · CSS | [![Course](https://img.shields.io/badge/Open-1b4332?style=flat-square&labelColor=52b788)](https://www.coursera.org/learn/developing-frontend-apps-with-react/home/welcome) |
+| 2 | [📚 Express Book Review](#p2) | Back-End | Node.js · Express · JWT · Axios | [![Course](https://img.shields.io/badge/Open-1e3a5f?style=flat-square&labelColor=3b82f6)](https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express) |
+| 3 | [🤖 AI Emotion Detector](#p3) | AI / Web | Python · Flask · Watson NLP | [![Course](https://img.shields.io/badge/Open-4c1d95?style=flat-square&labelColor=8b5cf6)](https://www.coursera.org/learn/python-project-for-ai-application-development) |
+| 4 | [🐍 Django Course App](#p4) | Full-Stack | Django · SQL · Bootstrap | [![Course](https://img.shields.io/badge/Open-092e20?style=flat-square&labelColor=44B78B)](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django) |
+| 5 | [🐳 Containers & Orchestration](#p5) | DevOps | Docker · Kubernetes · OpenShift · Istio | [![Course](https://img.shields.io/badge/Open-2d2d2d?style=flat-square&labelColor=EE0000)](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) |
+| 6 | [🧩 Microservices & Serverless](#p6) | Cloud | Flask · Docker · IBM Cloud Code Engine | [![Course](https://img.shields.io/badge/Open-1e293b?style=flat-square&labelColor=f59e0b)](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift) |
 
 ---
 
-<br/>
+<a id="journey"></a>
+## 🗺️ The Learning Journey
 
-# 🪴 Paradise Nursery
-**React.js & Redux Toolkit**
+How the six projects stack up into one full-stack skill set:
 
-A beautiful, functional shopping cart application for an online plant shop — browse categorized houseplants, add them to a live cart, and manage quantities with instantly recalculated totals.
+```mermaid
+flowchart LR
+    A["🪴 1. React<br/>UI + state"] --> B["📚 2. Node/Express<br/>REST + auth"]
+    B --> C["🤖 3. Flask + Watson<br/>AI services"]
+    C --> D["🐍 4. Django + SQL<br/>data-driven apps"]
+    D --> E["🐳 5. Docker/K8s/OpenShift<br/>package + orchestrate"]
+    E --> F["🧩 6. Microservices<br/>serverless at scale"]
 
-<br/>
+    style A fill:#52b788,color:#000,stroke:#1b4332
+    style B fill:#3b82f6,color:#fff,stroke:#1e3a5f
+    style C fill:#8b5cf6,color:#fff,stroke:#4c1d95
+    style D fill:#44B78B,color:#000,stroke:#092e20
+    style E fill:#EE0000,color:#fff,stroke:#2d2d2d
+    style F fill:#f59e0b,color:#000,stroke:#1e293b
+```
 
-*📸 Drop a screenshot or GIF of the shopping cart here.*
+### 🧠 Skills Map
 
-<br/>
+```mermaid
+mindmap
+  root((IBM Capstones))
+    Front-End
+      React components
+      Redux Toolkit state
+      Vite tooling
+    Back-End
+      Express routing
+      JWT auth + sessions
+      Async / Await
+    AI
+      Watson NLP
+      Emotion analysis
+      unittest
+    Data
+      SQL fundamentals
+      Django ORM
+      MVT pattern
+    Cloud-Native
+      Docker images
+      Kubernetes workloads
+      OpenShift + Istio
+      Microservices
+      Code Engine
+```
 
-### Paradise Nursery Features
+### 🧰 Technology Coverage
+
+| Area | Technologies | Projects |
+|---|---|:-:|
+| **Languages** | JavaScript, Python, HTML, CSS | 1 · 2 · 3 · 4 · 6 |
+| **Front-End** | React, Redux Toolkit, Vite, Bootstrap | 1 · 4 |
+| **Back-End** | Node.js, Express, Flask, Django | 2 · 3 · 4 · 6 |
+| **Auth** | JWT, Express Session, Django Auth | 2 · 4 |
+| **AI / NLP** | IBM Watson NLP | 3 |
+| **Databases** | SQL, Django ORM | 4 |
+| **DevOps** | Docker, Kubernetes, OpenShift, Istio | 5 · 6 |
+| **Cloud** | IBM Cloud Code Engine | 6 |
+| **Testing & Tools** | unittest, Postman, cURL, Git | 2 · 3 |
+
+---
+
+<a id="stats"></a>
+## 📊 Language Breakdown
+
+```mermaid
+pie showData title Repository Languages (GitHub-detected)
+    "JavaScript" : 44.4
+    "CSS" : 32.1
+    "Python" : 10.4
+    "HTML" : 8.7
+    "Go" : 3.6
+    "Dockerfile" : 0.6
+    "Other" : 0.2
+```
+
+| Language | Share | Visual | Mostly found in |
+|:---:|:---:|---|---|
+| 🟨 [JavaScript](https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR/search?l=javascript) | **44.4%** | `████████░░` | React app, Express API |
+| 🟦 [CSS](https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR/search?l=css) | **32.1%** | `██████░░░░` | Paradise Nursery, Bootstrap templates |
+| 🐍 [Python](https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR/search?l=python) | **10.4%** | `██░░░░░░░░` | Django app, Flask AI app, microservices |
+| 🟧 [HTML](https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR/search?l=html) | **8.7%** | `█░░░░░░░░░` | Django & Flask templates |
+| 🔵 [Go](https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR/search?l=go) | **3.6%** | `░░░░░░░░░░` | Sample service in the containers project ¹ |
+| 🐳 [Dockerfile](https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR/search?l=dockerfile) | **0.6%** | `░░░░░░░░░░` | Container image definitions |
+| ⚪ [Other](https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR/search?l=Other) | **0.2%** | `░░░░░░░░░░` | Config & misc files |
+
+<sub>¹ Go's location is inferred from the language split, not verified file-by-file.</sub>
+
+---
+
+<a id="projects"></a>
+# 🚀 Projects
+
+<a id="p1"></a>
+## 🪴 1 · Paradise Nursery
+**`React` `Redux Toolkit` `Vite` `CSS3`** — [📘 IBM Course](https://www.coursera.org/learn/developing-frontend-apps-with-react/home/welcome)
+
+An online plant shop: browse categorised houseplants, add them to a live cart, and manage quantities with instantly recalculated totals.
+
+<!-- Add a demo: ![Paradise Nursery demo](docs/screenshots/paradise-nursery.gif) -->
+> 📸 *Demo GIF / screenshot goes here — see [Adding Visuals](#visuals).*
 
 | | Feature | Description |
-|:---:|---|---|
-| 🌿 | **Landing Page** | Welcoming intro featuring the company name, a brief background, and a "Get Started" button |
-| 🪴 | **Product Listing** | Browse houseplants organized by category, each with an image, name, description, and price |
-| 🛒 | **Shopping Cart** | Add products to your cart — the cart icon updates live to reflect total item count |
-| 🔧 | **Cart Management** | Increase/decrease quantities, remove items, and see totals recalculate automatically |
-
-<br/>
-
-### Product Categories
+|:-:|---|---|
+| 🌿 | **Landing Page** | Company intro, short background, and a "Get Started" button |
+| 🪴 | **Product Listing** | Houseplants grouped by category with image, name, description and price |
+| 🛒 | **Shopping Cart** | Live cart icon showing total item count |
+| 🔧 | **Cart Management** | Increase/decrease quantity, remove items, auto-recalculated totals |
 
 <div align="center">
 
@@ -176,11 +165,8 @@ A beautiful, functional shopping cart application for an online plant shop — b
 
 </div>
 
-<br/>
-
-### Redux Data Flow
-
-*How adding an item to the cart propagates through the app:*
+<details>
+<summary><b>🔄 Redux data flow &amp; user flow</b></summary>
 
 ```mermaid
 flowchart LR
@@ -192,10 +178,6 @@ flowchart LR
     style ST fill:#1b4332,color:#fff,stroke:#FF6B6B
     style PC fill:#52b788,color:#fff
 ```
-
-<br/>
-
-### User Flow
 
 ```mermaid
 flowchart TD
@@ -212,68 +194,34 @@ flowchart TD
     style TOT fill:#52b788,color:#fff
 ```
 
-<br/>
-
-### Paradise Nursery Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,redux,vite,css&theme=dark" />
-
-</div>
-
-<br/>
-
-| Technology | Purpose |
-|---|---|
-| **React.js** | UI component library |
-| **Redux Toolkit** | Centralized cart state management |
-| **Vite** | Fast dev server and build tooling |
-| **CSS3** | Styling |
-
-<br/>
-
-### Paradise Nursery Getting Started
+</details>
 
 ```bash
-# 1. Install dependencies (from the project root)
-npm install
-
-# 2. Start the development server
-npm run dev
-
-# 3. Open your browser to the localhost port shown in the terminal
+npm install      # install dependencies (from the project root)
+npm run dev      # start Vite dev server, then open the printed localhost URL
 ```
 
-<br/>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
 
-<br/>
+<a id="p2"></a>
+## 📚 2 · Express Book Review
+**`Node.js` `Express` `JWT` `Axios`** — [📘 IBM Course](https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express)
 
-# 📚 Express Book Review
-**Node.js & Express.js**
+A server-side bookstore API: search books, manage reviews, and authenticate users securely — using Promises and Async/Await via Axios.
 
-A server-side application for an online bookstore — book search, review management, and secure user authentication, built with asynchronous operations via Promises and Async/Await.
-
-<br/>
-
-*📸 Drop a screenshot or GIF of the book review API in action (e.g. Postman) here.*
-
-<br/>
-
-### Express Book Review Features
+> 📸 *Postman screenshot / GIF goes here — see [Adding Visuals](#visuals).*
 
 | | Feature | Description |
-|:---:|---|---|
-| 📚 | **Book Retrieval** | List all available books, or search by ISBN, author name, or title |
-| 💬 | **Review Management** | View reviews for a book; authenticated users can add, modify, or delete their own reviews |
-| 🔐 | **User Authentication** | Register and log in securely using JSON Web Tokens (JWT) and session management |
-| ⚡ | **Asynchronous Operations** | Uses Promises and Async/Await via Axios to interact with data efficiently |
+|:-:|---|---|
+| 📚 | **Book Retrieval** | List all books or search by ISBN, author, or title |
+| 💬 | **Review Management** | View reviews; authenticated users add, modify, or delete their own |
+| 🔐 | **Authentication** | Register / log in with JWT and session management |
+| ⚡ | **Async Operations** | Promises and Async/Await via Axios |
 
-<br/>
-
-### Auth Flow
+<details>
+<summary><b>🔐 Auth flow &amp; API route map</b></summary>
 
 ```mermaid
 sequenceDiagram
@@ -283,289 +231,167 @@ sequenceDiagram
 
     User->>API: POST /register (username, password)
     API-->>User: 201 Created
-
     User->>API: POST /customer/login (username, password)
     API->>JWT: Generate signed token
     JWT-->>API: Access token
     API-->>User: 200 OK + session token
-
     User->>API: Authenticated review request (with token)
     API->>JWT: Verify token
     JWT-->>API: Valid
     API-->>User: Review saved / updated / deleted
 ```
 
-<br/>
+> ⚠️ *Standard route structure for this IBM capstone — verify against your `router/` files before relying on exact paths.*
 
-### API Route Map
+| Method | Endpoint | Auth | Purpose |
+|:-:|---|:-:|---|
+| `GET` | `/` | ❌ | List all books |
+| `GET` | `/isbn/:isbn` | ❌ | Find book by ISBN |
+| `GET` | `/author/:author` | ❌ | Find books by author |
+| `GET` | `/title/:title` | ❌ | Find books by title |
+| `GET` | `/review/:isbn` | ❌ | Read a book's reviews |
+| `POST` | `/register` | ❌ | Create an account |
+| `POST` | `/customer/login` | ❌ | Log in, receive token |
+| `PUT` | `/customer/auth/review/:isbn` | 🔒 | Add / modify your review |
+| `DELETE` | `/customer/auth/review/:isbn` | 🔒 | Delete your review |
 
-> ⚠️ *This reflects the standard route structure typical of this specific IBM capstone — verify it against your actual `router/` implementation before relying on exact paths.*
-
-```mermaid
-flowchart TD
-    C[📱 Client / Postman] --> R[🚏 Express Router]
-    R --> B1[📚 GET /books]
-    R --> B2[🔍 GET /isbn/:isbn]
-    R --> B3[✍️ GET /author/:author]
-    R --> B4[📖 GET /title/:title]
-    R --> REV1[💬 GET /review/:isbn]
-    R --> REV2["✏️ PUT /customer/auth/review/:isbn 🔒"]
-    R --> REV3["🗑️ DELETE /customer/auth/review/:isbn 🔒"]
-    R --> AUTH1[🆕 POST /register]
-    R --> AUTH2[🔑 POST /customer/login]
-
-    style C fill:#1e3a5f,color:#fff
-    style AUTH2 fill:#52b788,color:#fff
-```
-
-<br/>
-
-### Express Book Review Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
-
-</div>
-
-<br/>
-
-| Technology | Purpose |
-|---|---|
-| **Node.js** | JavaScript runtime |
-| **Express.js** | Web application / routing framework |
-| **JSON Web Tokens (JWT) & Express Session** | Authentication and session management |
-| **Axios** | Async/Await-based HTTP interactions |
-
-<br/>
-
-### Express Book Review Getting Started
+</details>
 
 ```bash
-# 1. Navigate to the backend directory
 cd expressBookReview
-
-# 2. Install dependencies
 npm install
-
-# 3. Start the server
-npm start
+npm start        # serves on port 5000 — test with Postman or cURL
 ```
 
-Server runs on **port `5000`** — test endpoints via Postman or cURL.
-
-<br/>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
 
-<br/>
+<a id="p3"></a>
+## 🤖 3 · AI Emotion Detector
+**`Python` `Flask` `IBM Watson NLP` `unittest`** — [📘 IBM Course](https://www.coursera.org/learn/python-project-for-ai-application-development)
 
-# 🤖 Build and Deploy AI Application
-**Python, Flask & IBM Watson NLP**
+A web app that takes customer feedback and runs it through Watson NLP to detect *which* emotion is behind it, not just positive vs. negative — then surfaces the dominant one.
 
-Built for IBM's *Developing AI Applications with Python and Flask* capstone — a web app that takes customer feedback text and runs it through the Watson NLP library to detect the emotions behind it (not just positive/negative sentiment, but *which* emotion), then surfaces the dominant one.
-
-<br/>
-
-*📸 Drop a screenshot or GIF of the emotion detector in action here.*
-
-<br/>
-
-### AI Application Features
+> 📸 *Emotion detector screenshot / GIF goes here — see [Adding Visuals](#visuals).*
 
 | | Feature | Description |
-|:---:|---|---|
-| 💬 | **Text Input** | Accepts free-form customer feedback text through a simple web form |
-| 🧠 | **Emotion Analysis** | Runs the text through Watson NLP's emotion-prediction model |
-| 📊 | **Five-Emotion Breakdown** | Returns scores for anger, disgust, fear, joy, and sadness |
-| 🏆 | **Dominant Emotion** | Surfaces the single highest-scoring emotion as the headline result |
-| ⚠️ | **Input Validation** | Flags blank submissions before they reach the model |
+|:-:|---|---|
+| 💬 | **Text Input** | Free-form feedback via a simple web form |
+| 🧠 | **Emotion Analysis** | Watson NLP emotion-prediction model |
+| 📊 | **Five-Emotion Breakdown** | Scores for anger, disgust, fear, joy, sadness |
+| 🏆 | **Dominant Emotion** | Highest-scoring emotion as the headline result |
+| ⚠️ | **Input Validation** | Blank submissions are flagged before reaching the model |
+| ✅ | **Unit Tests** | `test_emotion_detection.py` via `unittest` |
 
-> ⚠️ *The emotion schema above reflects Watson NLP's standard `EmotionPredict` output for this specific IBM capstone — confirm it matches your `EmotionDetection/` module before relying on it.*
+> ⚠️ *Emotion schema reflects Watson's standard `EmotionPredict` output — confirm against your `EmotionDetection/` module.*
 
-<br/>
-
-### Emotion Detection Flow
+<details>
+<summary><b>🔄 Emotion detection flow</b></summary>
 
 ```mermaid
 sequenceDiagram
     actor User
     participant UI as 🖥️ Web Form
-    participant API as 🤖 Flask Server (server.py)
-    participant ED as 🧠 EmotionDetection Module
+    participant API as 🤖 Flask (server.py)
+    participant ED as 🧠 EmotionDetection
     participant W as ☁️ Watson NLP
 
     User->>UI: Submit feedback text
     UI->>API: GET /emotionDetector?textToAnalyze=...
     API->>ED: emotion_detector(text)
     ED->>W: POST emotion-predict
-    W-->>ED: scores (anger, disgust, fear, joy, sadness)
-    ED-->>API: dominant_emotion + scores
+    W-->>ED: anger, disgust, fear, joy, sadness
+    ED-->>API: scores + dominant_emotion
     API-->>UI: Formatted response
     UI-->>User: Display dominant emotion
 ```
 
-<br/>
-
-### AI Application Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,py&theme=dark" />
-<img src="https://img.shields.io/badge/IBM%20Watson%20NLP-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-
-</div>
-
-<br/>
-
-| Technology | Purpose |
-|---|---|
-| **Python** | Core application language |
-| **Flask** | Web server and routing |
-| **IBM Watson NLP Library** | Emotion detection model |
-| **unittest** | Automated tests (`test_emotion_detection.py`) |
-
-<br/>
-
-### AI Application Getting Started
+</details>
 
 ```bash
-# 1. Navigate to the project directory
 cd final_project_emotion_detection
-
-# 2. Install dependencies
 pip install -r requirements.txt
-
-# 3. Start the server
-python server.py
+python server.py   # port 5000 (or next available)
 ```
 
-Server runs on **port `5000`** (or the next available port) — open it in your browser.
-
-<br/>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
 
-<br/>
+<a id="p4"></a>
+## 🐍 4 · Django Course App
+**`Django` `Python` `SQL` `Bootstrap`** — [📘 IBM Course](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django)
 
-# 🐍 Django Course App
-**Python, Django & SQL**
+A full-stack online course platform. The final project extends a base course app with a new assessment feature, built on SQL fundamentals, the Django ORM, the MVT pattern, authentication and cloud deployment.
 
-Built for IBM's *Developing Applications with SQL, Databases, and Django* capstone — a full-stack online course platform. The final project extends a base course app with a new assessment feature, on top of a foundation covering SQL fundamentals, Django's ORM, the Model-View-Template pattern, authentication, and cloud deployment.
-
-<br/>
-
-*📸 Drop a screenshot or GIF of the course app here.*
-
-<br/>
-
-### Django App Features
+> 📸 *Course app screenshot / GIF goes here — see [Adding Visuals](#visuals).*
 
 | | Feature | Description |
-|:---:|---|---|
-| 📚 | **Course Catalog** | Lists available online courses with details and instructors |
-| 📝 | **Enrollment** | Registered users can enroll in courses |
-| ✅ | **Assessments** *(final project)* | Adds a new exam/quiz feature on top of the base course app |
-| 🔐 | **Authentication** | Login, logout, registration, permissions, and groups via Django's built-in auth |
-| 🛠️ | **Admin Site** | Django admin configured with search and filter for course data |
+|:-:|---|---|
+| 📚 | **Course Catalog** | Courses with details and instructors |
+| 📝 | **Enrollment** | Registered users can enroll |
+| ✅ | **Assessments** *(final project)* | New exam/quiz feature on the base app |
+| 🔐 | **Authentication** | Login, logout, registration, permissions, groups |
+| 🛠️ | **Admin Site** | Configured with search and filters |
 | 🎨 | **Styling** | Bootstrap-based templates and static assets |
 
-> ⚠️ *The exact assessment requirements come from the course's grading rubric — this table reflects the base "Online Course App" plus the general shape of the final assignment, not a verified list of your specific implementation.*
+> ⚠️ *Exact assessment requirements come from the course rubric — this table shows the general shape, not a verified list of your implementation.*
 
-<br/>
-
-### Django MVT Flow
+<details>
+<summary><b>🔄 Django MVT flow</b></summary>
 
 ```mermaid
 flowchart LR
-    B["🌐 Browser Request"] --> U["🔗 urls.py<br/>URL Routing"]
-    U --> V["⚙️ views.py<br/>Request Handling"]
-    V --> M["🗂️ models.py<br/>Django ORM"]
+    B["🌐 Browser Request"] --> U["🔗 urls.py<br/>routing"]
+    U --> V["⚙️ views.py<br/>logic"]
+    V --> M["🗂️ models.py<br/>ORM"]
     M <--> DB[("🗄️ SQL Database")]
-    V --> T["📄 templates/<br/>HTML Rendering"]
+    V --> T["📄 templates/<br/>HTML"]
     T --> B
 
     style DB fill:#092e20,color:#fff,stroke:#44B78B
     style V fill:#44B78B,color:#000
 ```
 
-<br/>
-
-### Django App Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=django,py,html,css,bootstrap&theme=dark" />
-
-</div>
-
-<br/>
-
-| Technology | Purpose |
-|---|---|
-| **Django** | Web framework (MVT pattern, ORM, admin site) |
-| **Python** | Core application language |
-| **SQL Database** | Relational data storage (PostgreSQL / SQLite depending on environment) |
-| **Bootstrap** | Front-end styling |
-| **Django Auth** | Login, registration, permissions, and groups |
-
-<br/>
-
-### Django App Getting Started
+</details>
 
 ```bash
-# 1. Navigate to the project directory
-cd <django-project-folder>
-
-# 2. Install dependencies
+cd <django-project-folder>      # replace with the real folder name
 pip install -r requirements.txt
-
-# 3. Apply migrations
 python manage.py migrate
-
-# 4. Start the development server
 python manage.py runserver
 ```
 
-*Replace `<django-project-folder>` with this project's actual folder name in the repo.*
-
-<br/>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
 
-<br/>
+<a id="p5"></a>
+## 🐳 5 · Containers with Docker, Kubernetes & OpenShift
+**`Docker` `Kubernetes` `OpenShift` `Istio`** — [📘 IBM Course](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift)
 
-# 🐳 Containers with Docker, Kubernetes & OpenShift
-**Docker, Kubernetes, Red Hat OpenShift & Istio**
+Containerise an app, orchestrate it with Kubernetes, then explore OpenShift and Istio. The final project builds and deploys a simple health-check application through the full pipeline.
 
-Hands-on work from IBM's *Introduction to Containers w/ Docker, Kubernetes & OpenShift* course — containerizing an application, orchestrating it with Kubernetes, and exploring the OpenShift and Istio ecosystem on top of it. The final project builds and deploys a simple health-check application through that full pipeline.
+> 📸 *Deployed app / dashboard screenshot goes here — see [Adding Visuals](#visuals).*
 
-<br/>
-
-*📸 Drop a screenshot or GIF of the deployed app / dashboard here.*
-
-<br/>
-
-### Containers Project Features
-
-| | Stage | What It Covers |
-|:---:|---|---|
-| 📦 | **Containerization** | Building a Docker image and running it as a container |
-| ☸️ | **Kubernetes Basics** | Core objects, architecture, and `kubectl` |
+| | Stage | What it covers |
+|:-:|---|---|
+| 📦 | **Containerization** | Build a Docker image, run it as a container |
+| ☸️ | **Kubernetes Basics** | Core objects, architecture, `kubectl` |
 | 🔁 | **Managing Workloads** | ReplicaSets, autoscaling, rolling updates, ConfigMaps & Secrets |
-| 🔴 | **OpenShift Ecosystem** | Builds, Operators, and Red Hat OpenShift on top of Kubernetes |
-| 🕸️ | **Service Mesh** | Introductory look at Istio |
-| 🩺 | **Final Project** | Build and deploy a simple health-check application end-to-end |
+| 🔴 | **OpenShift** | Builds, Operators, Red Hat OpenShift on Kubernetes |
+| 🕸️ | **Service Mesh** | Introductory Istio |
+| 🩺 | **Final Project** | Build & deploy a health-check app end-to-end |
 
-<br/>
-
-### Container Deployment Flow
+<details>
+<summary><b>🔄 Container deployment flow</b></summary>
 
 ```mermaid
 flowchart LR
     D["📝 Dockerfile"] -->|docker build| I["📦 Image"]
-    I -->|push| R["🗃️ Container Registry"]
-    R -->|kubectl apply| K["☸️ Kubernetes Deployment<br/>ReplicaSets · Pods"]
+    I -->|push| R["🗃️ Registry"]
+    R -->|kubectl apply| K["☸️ Deployment<br/>ReplicaSets · Pods"]
     K --> S["🔌 Service"]
     S --> O["🔴 OpenShift Route"]
     K -.->|service mesh| IS["🕸️ Istio"]
@@ -574,154 +400,147 @@ flowchart LR
     style O fill:#EE0000,color:#fff
 ```
 
-<br/>
-
-### Containers Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift&theme=dark" />
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
-
-</div>
-
-<br/>
-
-| Technology | Purpose |
-|---|---|
-| **Docker** | Building and running container images |
-| **Kubernetes** | Container orchestration, scaling, and deployment |
-| **Red Hat OpenShift** | Enterprise Kubernetes platform — builds, Operators, routes |
-| **Istio** | Service mesh introduced alongside OpenShift |
-
-<br/>
-
-### Containers Getting Started
+</details>
 
 ```bash
-# Build and run the image locally
 docker build -t <image-name> .
 docker run -p 8080:8080 <image-name>
 
-# Deploy to Kubernetes
 kubectl apply -f deployment.yaml
 kubectl get pods
 ```
 
-*Filenames and image tags above are placeholders — swap in whatever this project's Dockerfile and manifests are actually named.*
+<sub>Image names and manifest filenames are placeholders — use your project's actual ones.</sub>
 
-<br/>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
 
-<br/>
+<a id="p6"></a>
+## 🧩 6 · Microservices & Serverless
+**`Python` `Flask` `Docker` `IBM Cloud Code Engine`** — [📘 IBM Course](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift)
 
-# 🧩 Microservices and Serverless
-**Python, Flask, Microservices & IBM Cloud Code Engine**
+A front-end backed by several small, independently deployable Flask REST APIs instead of a monolith, shipped serverlessly on IBM Cloud Code Engine.
 
-Built for IBM's *Application Development using Microservices and Serverless* capstone — a front-end backed by several small, independently deployable Flask REST APIs instead of one monolith, with the whole thing shipped serverlessly on IBM Cloud Code Engine.
-
-<br/>
-
-*📸 Drop a screenshot or GIF of the running application here.*
-
-<br/>
-
-### Microservices Features
+> 📸 *Running application screenshot / GIF goes here — see [Adding Visuals](#visuals).*
 
 | | Feature | Description |
-|:---:|---|---|
-| 🧩 | **Microservice APIs** | Multiple independent Flask REST services, each owning one responsibility |
-| 🌐 | **Front-End** | Client application that consumes the microservices |
-| ☁️ | **Serverless Deployment** | Runs on IBM Cloud Code Engine — no server management |
-| 📈 | **Independent Scaling** | Each microservice scales on its own, separate from the others |
+|:-:|---|---|
+| 🧩 | **Microservice APIs** | Independent Flask services, one responsibility each |
+| 🌐 | **Front-End** | Client app consuming the services |
+| ☁️ | **Serverless Deployment** | IBM Cloud Code Engine, no server management |
+| 📈 | **Independent Scaling** | Each service scales on its own |
 
-<br/>
-
-### Microservices Architecture Flow
+<details>
+<summary><b>🔄 Architecture flow &amp; monolith vs. microservices</b></summary>
 
 ```mermaid
 flowchart LR
-    C["🌐 Client / Front-End"] --> M1["🧩 Microservice A<br/>Flask REST API"]
-    C --> M2["🧩 Microservice B<br/>Flask REST API"]
-    M1 --> CE["☁️ IBM Cloud Code Engine<br/>Serverless Runtime"]
+    C["🌐 Front-End"] --> M1["🧩 Service A<br/>Flask REST"]
+    C --> M2["🧩 Service B<br/>Flask REST"]
+    M1 --> CE["☁️ IBM Cloud Code Engine<br/>serverless runtime"]
     M2 --> CE
 
     style CE fill:#f59e0b,color:#000
     style C fill:#1e293b,color:#fff
 ```
 
-<br/>
+| | Monolith | Microservices (this project) |
+|---|:-:|:-:|
+| Deployment | All-or-nothing | Per service |
+| Scaling | Whole app | Per service |
+| Failure blast radius | Large | Contained |
+| Tech flexibility | Limited | High |
 
-### Microservices Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,flask,docker&theme=dark" />
-<img src="https://img.shields.io/badge/IBM%20Cloud%20Code%20Engine-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-
-</div>
-
-<br/>
-
-| Technology | Purpose |
-|---|---|
-| **Python & Flask** | REST API framework for each microservice |
-| **IBM Cloud Code Engine** | Serverless deployment platform |
-| **Docker** | Packaging each microservice as a container image |
-
-<br/>
-
-### Microservices Getting Started
+</details>
 
 ```bash
-# 1. Navigate to a microservice directory
 cd <microservice-folder>
-
-# 2. Install dependencies
 pip install -r requirements.txt
-
-# 3. Run it locally
 flask run
 ```
 
-*Deploying to IBM Cloud Code Engine is environment-specific — follow the `ibmcloud ce` CLI steps for your own account rather than generic commands here.*
+<sub>Code Engine deployment is account-specific — follow the `ibmcloud ce` CLI steps for your own account.</sub>
 
-<br/>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
-<br/>
 
+<a id="structure"></a>
+## 🗂️ Repository Structure
+
+> ⚠️ *Only `expressBookReview/` and `final_project_emotion_detection/` are named in the original README. The other folder names are placeholders — rename them to match the repo.*
+
+```text
+FP-IBM-DFEAR/
+├── 📁 paradise-nursery/               # 1 · React + Redux Toolkit + Vite
+├── 📁 expressBookReview/              # 2 · Node.js + Express + JWT
+├── 📁 final_project_emotion_detection/# 3 · Flask + Watson NLP
+├── 📁 django-course-app/              # 4 · Django + SQL
+├── 📁 containers-k8s-openshift/       # 5 · Docker / Kubernetes / OpenShift
+├── 📁 microservices-serverless/       # 6 · Flask microservices + Code Engine
+├── 📁 docs/
+│   └── 📁 screenshots/                # GIFs & images used in this README
+└── 📄 README.md
+```
+
+---
+
+<a id="quickstart"></a>
+## ⚡ Quick Start
+
+```bash
+# Clone the repo
+git clone https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR.git
+cd FP-IBM-DFEAR
+```
+
+| Project | Prerequisites | Run |
+|---|---|---|
+| 1 · React | Node.js 18+ | `npm install && npm run dev` |
+| 2 · Express | Node.js | `npm install && npm start` (port 5000) |
+| 3 · Flask AI | Python 3.8+ | `pip install -r requirements.txt && python server.py` |
+| 4 · Django | Python 3.8+ | `pip install -r requirements.txt && python manage.py migrate && python manage.py runserver` |
+| 5 · Containers | Docker, `kubectl`, cluster access | `docker build` → `kubectl apply -f` |
+| 6 · Microservices | Python, Docker, IBM Cloud account | `flask run` locally; `ibmcloud ce` to deploy |
+
+---
+
+<a id="visuals"></a>
+## 🎞️ Adding Visuals (Screenshots & GIFs)
+
+1. Record each project with [ScreenToGif](https://www.screentogif.com/), [LICEcap](https://www.cockos.com/licecap/), or Peek.
+2. Save to `docs/screenshots/` (keep each GIF under ~5 MB).
+3. Replace the 📸 placeholder in each project with:
+
+```markdown
+![Project demo](docs/screenshots/<project-name>.gif)
+```
+
+**Suggested shots:** cart updating live (1) · Postman login + review (2) · emotion result (3) · assessment page (4) · `kubectl get pods` (5) · deployed Code Engine app (6).
+
+---
+
+<a id="author"></a>
 ## 👤 Author
 
 <div align="center">
 
 ### Talha Yaseen
+*Full-stack developer · IBM-certified learner*
 
 <br/>
 
-<a href="https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR">
-  <img src="https://img.shields.io/badge/Repo-FP--IBM--DFEAR-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:talhavectorarts@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/talha-yaseen-44a41a341">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Talha-Yaseen-Hub">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<a href="https://github.com/Talha-Yaseen-Hub/FP-IBM-DFEAR"><img src="https://img.shields.io/badge/Repo-FP--IBM--DFEAR-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Talha-Yaseen-Hub"><img src="https://img.shields.io/badge/GitHub-Talha--Yaseen--Hub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/talha-yaseen-44a41a341/"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Yaseen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:talhavectorarts@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<div align="center">
+⭐ **If this repo helped you, consider giving it a star!** ⭐
 
 [⬆ Back to Top](#top)
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2d6a4f,100:1b4332&height=100&section=footer" width="100%"/>
 
